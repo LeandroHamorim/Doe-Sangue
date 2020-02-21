@@ -5,10 +5,11 @@ O objetivo da aplicação é obter e armazenar dados de usuários que estejam di
     HTML
     CSS
     JavaScrip
+    SQL
     Express 
     Nodemon 
     Nunjucks 
     Postbird
-    Postgres 
+    PostgreSQL
     
 
